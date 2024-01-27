@@ -6,11 +6,6 @@ import ReactMarkdown from "react-markdown";
 const defaultMarkdown = `
 # Selamat Datang di Markdown Previewer Bagus Alvin!
 
-## This is a sub-heading...
-### And here's some other cool stuff:
-
-Heres some code, \`<div></div>\`, between 2 backticks.
-
 Silahkan klik lebih lengkapnya [links](https://www.freecodecamp.com), dan
 > Quotes!
 
